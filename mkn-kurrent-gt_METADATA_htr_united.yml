@@ -1,0 +1,62 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: mkn-kurrent-gt
+url: https://github.com/bertsky/mkn-kurrent-gt
+authors:
+      - name: juan 
+        surname: garces
+        orcid: 
+        roles:
+          - project-manager
+      - name: Carolin 
+        surname: Menzer
+        orcid: 
+        roles:
+          - transcriber
+          - quality-control
+          - support
+      - name: xyz 
+        surname: 
+        orcid: 
+        roles:
+          - transcriber
+      - name: SLUB 
+        surname: 
+        orcid: 
+        roles:
+          - institution
+          - digitization
+institutions: []
+description: >-
+  Kurrent GT from the Moravian Knowledge Network handwritten periodicals
+project-name: Gemein-Nachrichten der Herrnhuter Brüdergemeine
+project-website: https://dhh.hypotheses.org/
+language:
+  - deu
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Kurrent
+script-type: 
+    only-manuscript
+time:
+  notAfter: '1806'
+  notBefore: '1765'
+hands:
+  count: unknown
+  precision: exact
+license:
+  name: PublicDomainMark 1.0
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+format: Page-XML
+volume:
+  - count: 122
+  metric: characters
+  - count: 1
+  metric: files
+  - count: 32
+  metric: lines
+  - count: 4
+  metric: regions
+citation-file-link: 
+transcription-guidelines: >-
+  OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion
