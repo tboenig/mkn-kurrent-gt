@@ -14,7 +14,7 @@
       <dt id="License">License:</dt>
       <dd>PublicDomainMark 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D GT Level 2, but with ℓ as </dd>
+      <dd>OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion</dd>
       <dt id="Project">Project:</dt>
       <dd>Gemein-Nachrichten der Herrnhuter Brüdergemeine</dd>
       <dt id="Project-URL">Project-URL:</dt>
@@ -32,9 +32,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>19606</td>
-            <td>771</td>
-            <td>1220</td>
+            <td>32</td>
+            <td>1</td>
+            <td>4</td>
          </tr>
       </tbody>
    </table>
@@ -57,70 +57,13 @@
                   <th>MusicRegion</th>
                   <th>AdRegion</th>
                   <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
+                  <th>UnknownRegion</th>
                   <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
             </thead>
             <tbody>
-               <tr>
-                  <td>GN_1770_2_GN_A_148</td>
-                  <td>239</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2984</td>
-                  <td>107</td>
-               </tr>
-               <tr>
-                  <td>GN_1773_3_GN_A_167</td>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1131</td>
-                  <td>42</td>
-               </tr>
-               <tr>
-                  <td>GN_1774_2_GN_A_170</td>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>387</td>
-                  <td>13</td>
-               </tr>
                <tr>
                   <td>GN_1765_1_GN_A_109</td>
                   <td>4</td>
@@ -139,139 +82,6 @@
                   <td/>
                   <td>32</td>
                   <td>1</td>
-               </tr>
-               <tr>
-                  <td>GN_1771_4_GN_A_158</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>641</td>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>GN_1765_2_GN_A_110</td>
-                  <td>51</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>728</td>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>GN_1806_4_GN_A_354</td>
-                  <td>136</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2422</td>
-                  <td>102</td>
-               </tr>
-               <tr>
-                  <td>GN_1807_1_GN_A_355</td>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>GN_1806_1_GN_A_351</td>
-                  <td>445</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>8723</td>
-                  <td>358</td>
-               </tr>
-               <tr>
-                  <td>GN_1774_3_GN_A_171</td>
-                  <td>26</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>570</td>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>GN_1788_5_GN_A_250</td>
-                  <td>189</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1964</td>
-                  <td>81</td>
                </tr>
             </tbody>
          </table>
