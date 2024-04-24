@@ -242,7 +242,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/mkn-kurrent-gt/blob/v1.0.12/data/GN_1765_1_GN_A_109/GT-PAGE/00000024.xml">00000024.xml</a>
+                              <a href="https://github.com/tboenig/mkn-kurrent-gt/blob/v1.0.13/data/GN_1765_1_GN_A_109/GT-PAGE/00000024.xml">00000024.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
